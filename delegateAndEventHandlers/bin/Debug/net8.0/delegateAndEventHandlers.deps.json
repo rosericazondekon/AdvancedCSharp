@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "delegateAndEventHandlers/1.0.0": {
+        "runtime": {
+          "delegateAndEventHandlers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "delegateAndEventHandlers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

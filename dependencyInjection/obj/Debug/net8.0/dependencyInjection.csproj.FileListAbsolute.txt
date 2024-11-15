@@ -1,0 +1,14 @@
+/Users/rosericazondekon/Documents/advancedCSharp/dependencyInjection/obj/Debug/net8.0/dependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rosericazondekon/Documents/advancedCSharp/dependencyInjection/obj/Debug/net8.0/dependencyInjection.AssemblyInfoInputs.cache
+/Users/rosericazondekon/Documents/advancedCSharp/dependencyInjection/obj/Debug/net8.0/dependencyInjection.AssemblyInfo.cs
+/Users/rosericazondekon/Documents/advancedCSharp/dependencyInjection/obj/Debug/net8.0/dependencyInjection.csproj.CoreCompileInputs.cache
+/Users/rosericazondekon/Documents/advancedCSharp/dependencyInjection/bin/Debug/net8.0/dependencyInjection
+/Users/rosericazondekon/Documents/advancedCSharp/dependencyInjection/bin/Debug/net8.0/dependencyInjection.deps.json
+/Users/rosericazondekon/Documents/advancedCSharp/dependencyInjection/bin/Debug/net8.0/dependencyInjection.runtimeconfig.json
+/Users/rosericazondekon/Documents/advancedCSharp/dependencyInjection/bin/Debug/net8.0/dependencyInjection.dll
+/Users/rosericazondekon/Documents/advancedCSharp/dependencyInjection/bin/Debug/net8.0/dependencyInjection.pdb
+/Users/rosericazondekon/Documents/advancedCSharp/dependencyInjection/obj/Debug/net8.0/dependencyInjection.dll
+/Users/rosericazondekon/Documents/advancedCSharp/dependencyInjection/obj/Debug/net8.0/refint/dependencyInjection.dll
+/Users/rosericazondekon/Documents/advancedCSharp/dependencyInjection/obj/Debug/net8.0/dependencyInjection.pdb
+/Users/rosericazondekon/Documents/advancedCSharp/dependencyInjection/obj/Debug/net8.0/dependencyInjection.genruntimeconfig.cache
+/Users/rosericazondekon/Documents/advancedCSharp/dependencyInjection/obj/Debug/net8.0/ref/dependencyInjection.dll

@@ -1,0 +1,14 @@
+/Users/rosericazondekon/Documents/advancedCSharp/calculatorApp/obj/Debug/net8.0/calculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rosericazondekon/Documents/advancedCSharp/calculatorApp/obj/Debug/net8.0/calculatorApp.AssemblyInfoInputs.cache
+/Users/rosericazondekon/Documents/advancedCSharp/calculatorApp/obj/Debug/net8.0/calculatorApp.AssemblyInfo.cs
+/Users/rosericazondekon/Documents/advancedCSharp/calculatorApp/obj/Debug/net8.0/calculatorApp.csproj.CoreCompileInputs.cache
+/Users/rosericazondekon/Documents/advancedCSharp/calculatorApp/bin/Debug/net8.0/calculatorApp
+/Users/rosericazondekon/Documents/advancedCSharp/calculatorApp/bin/Debug/net8.0/calculatorApp.deps.json
+/Users/rosericazondekon/Documents/advancedCSharp/calculatorApp/bin/Debug/net8.0/calculatorApp.runtimeconfig.json
+/Users/rosericazondekon/Documents/advancedCSharp/calculatorApp/bin/Debug/net8.0/calculatorApp.dll
+/Users/rosericazondekon/Documents/advancedCSharp/calculatorApp/bin/Debug/net8.0/calculatorApp.pdb
+/Users/rosericazondekon/Documents/advancedCSharp/calculatorApp/obj/Debug/net8.0/calculatorApp.dll
+/Users/rosericazondekon/Documents/advancedCSharp/calculatorApp/obj/Debug/net8.0/refint/calculatorApp.dll
+/Users/rosericazondekon/Documents/advancedCSharp/calculatorApp/obj/Debug/net8.0/calculatorApp.pdb
+/Users/rosericazondekon/Documents/advancedCSharp/calculatorApp/obj/Debug/net8.0/calculatorApp.genruntimeconfig.cache
+/Users/rosericazondekon/Documents/advancedCSharp/calculatorApp/obj/Debug/net8.0/ref/calculatorApp.dll

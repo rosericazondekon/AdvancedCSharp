@@ -1,0 +1,14 @@
+/Users/rosericazondekon/Documents/advancedCSharp/delegateAndEventHandlers/bin/Debug/net8.0/delegateAndEventHandlers
+/Users/rosericazondekon/Documents/advancedCSharp/delegateAndEventHandlers/bin/Debug/net8.0/delegateAndEventHandlers.deps.json
+/Users/rosericazondekon/Documents/advancedCSharp/delegateAndEventHandlers/bin/Debug/net8.0/delegateAndEventHandlers.runtimeconfig.json
+/Users/rosericazondekon/Documents/advancedCSharp/delegateAndEventHandlers/bin/Debug/net8.0/delegateAndEventHandlers.dll
+/Users/rosericazondekon/Documents/advancedCSharp/delegateAndEventHandlers/bin/Debug/net8.0/delegateAndEventHandlers.pdb
+/Users/rosericazondekon/Documents/advancedCSharp/delegateAndEventHandlers/obj/Debug/net8.0/delegateAndEventHandlers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rosericazondekon/Documents/advancedCSharp/delegateAndEventHandlers/obj/Debug/net8.0/delegateAndEventHandlers.AssemblyInfoInputs.cache
+/Users/rosericazondekon/Documents/advancedCSharp/delegateAndEventHandlers/obj/Debug/net8.0/delegateAndEventHandlers.AssemblyInfo.cs
+/Users/rosericazondekon/Documents/advancedCSharp/delegateAndEventHandlers/obj/Debug/net8.0/delegateAndEventHandlers.csproj.CoreCompileInputs.cache
+/Users/rosericazondekon/Documents/advancedCSharp/delegateAndEventHandlers/obj/Debug/net8.0/delegateAndEventHandlers.dll
+/Users/rosericazondekon/Documents/advancedCSharp/delegateAndEventHandlers/obj/Debug/net8.0/refint/delegateAndEventHandlers.dll
+/Users/rosericazondekon/Documents/advancedCSharp/delegateAndEventHandlers/obj/Debug/net8.0/delegateAndEventHandlers.pdb
+/Users/rosericazondekon/Documents/advancedCSharp/delegateAndEventHandlers/obj/Debug/net8.0/delegateAndEventHandlers.genruntimeconfig.cache
+/Users/rosericazondekon/Documents/advancedCSharp/delegateAndEventHandlers/obj/Debug/net8.0/ref/delegateAndEventHandlers.dll

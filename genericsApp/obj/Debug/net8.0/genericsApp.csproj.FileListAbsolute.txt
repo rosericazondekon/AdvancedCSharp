@@ -1,0 +1,14 @@
+/Users/rosericazondekon/Documents/advancedCSharp/genericsApp/obj/Debug/net8.0/genericsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rosericazondekon/Documents/advancedCSharp/genericsApp/obj/Debug/net8.0/genericsApp.AssemblyInfoInputs.cache
+/Users/rosericazondekon/Documents/advancedCSharp/genericsApp/obj/Debug/net8.0/genericsApp.AssemblyInfo.cs
+/Users/rosericazondekon/Documents/advancedCSharp/genericsApp/obj/Debug/net8.0/genericsApp.csproj.CoreCompileInputs.cache
+/Users/rosericazondekon/Documents/advancedCSharp/genericsApp/bin/Debug/net8.0/genericsApp
+/Users/rosericazondekon/Documents/advancedCSharp/genericsApp/bin/Debug/net8.0/genericsApp.deps.json
+/Users/rosericazondekon/Documents/advancedCSharp/genericsApp/bin/Debug/net8.0/genericsApp.runtimeconfig.json
+/Users/rosericazondekon/Documents/advancedCSharp/genericsApp/bin/Debug/net8.0/genericsApp.dll
+/Users/rosericazondekon/Documents/advancedCSharp/genericsApp/bin/Debug/net8.0/genericsApp.pdb
+/Users/rosericazondekon/Documents/advancedCSharp/genericsApp/obj/Debug/net8.0/genericsApp.dll
+/Users/rosericazondekon/Documents/advancedCSharp/genericsApp/obj/Debug/net8.0/refint/genericsApp.dll
+/Users/rosericazondekon/Documents/advancedCSharp/genericsApp/obj/Debug/net8.0/genericsApp.pdb
+/Users/rosericazondekon/Documents/advancedCSharp/genericsApp/obj/Debug/net8.0/genericsApp.genruntimeconfig.cache
+/Users/rosericazondekon/Documents/advancedCSharp/genericsApp/obj/Debug/net8.0/ref/genericsApp.dll

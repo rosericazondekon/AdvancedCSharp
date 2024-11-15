@@ -1,0 +1,14 @@
+/Users/rosericazondekon/Documents/advancedCSharp/linqApp/obj/Debug/net8.0/linqApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rosericazondekon/Documents/advancedCSharp/linqApp/obj/Debug/net8.0/linqApp.AssemblyInfoInputs.cache
+/Users/rosericazondekon/Documents/advancedCSharp/linqApp/obj/Debug/net8.0/linqApp.AssemblyInfo.cs
+/Users/rosericazondekon/Documents/advancedCSharp/linqApp/obj/Debug/net8.0/linqApp.csproj.CoreCompileInputs.cache
+/Users/rosericazondekon/Documents/advancedCSharp/linqApp/bin/Debug/net8.0/linqApp
+/Users/rosericazondekon/Documents/advancedCSharp/linqApp/bin/Debug/net8.0/linqApp.deps.json
+/Users/rosericazondekon/Documents/advancedCSharp/linqApp/bin/Debug/net8.0/linqApp.runtimeconfig.json
+/Users/rosericazondekon/Documents/advancedCSharp/linqApp/bin/Debug/net8.0/linqApp.dll
+/Users/rosericazondekon/Documents/advancedCSharp/linqApp/bin/Debug/net8.0/linqApp.pdb
+/Users/rosericazondekon/Documents/advancedCSharp/linqApp/obj/Debug/net8.0/linqApp.dll
+/Users/rosericazondekon/Documents/advancedCSharp/linqApp/obj/Debug/net8.0/refint/linqApp.dll
+/Users/rosericazondekon/Documents/advancedCSharp/linqApp/obj/Debug/net8.0/linqApp.pdb
+/Users/rosericazondekon/Documents/advancedCSharp/linqApp/obj/Debug/net8.0/linqApp.genruntimeconfig.cache
+/Users/rosericazondekon/Documents/advancedCSharp/linqApp/obj/Debug/net8.0/ref/linqApp.dll
