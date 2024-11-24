@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using blogApp.Models;
@@ -45,7 +44,3 @@ while (true)
     }
 
 }
-=======
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
->>>>>>> parent of 0a9f023 (Add DbContext and migrate Db)
