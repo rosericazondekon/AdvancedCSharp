@@ -1,0 +1,4 @@
+2024-11-14 22:24:45.732 -05:00 [INF] Processing input: HELLO, WORLD!
+2024-11-14 22:24:45.760 -05:00 [ERR] An exception occurred.
+System.InvalidOperationException: Simulated exception.
+   at Program.<Main>$(String[] args) in /Users/rosericazondekon/Documents/advancedCSharp/webAppLogging/Program.cs:line 36

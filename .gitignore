@@ -1,0 +1,18 @@
+# Ignore global files (for user-specific Visual Studio files)
+.vs/
+.vscode/
+.vscode/*
+
+# Ignore logs
+**/*.log
+
+# Ignore solution file
+*.sln
+*.sln.iml
+
+# Ignore build outputs
+# Ignore all bin and obj folders across all subdirectories
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
