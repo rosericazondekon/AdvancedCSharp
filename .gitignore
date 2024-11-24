@@ -17,5 +17,7 @@
 **/Debug/
 **/Release/
 **/con
+
+# Ignore MacOS Desktop Services Store files
 .DS_Store
 **/.DS_Store
