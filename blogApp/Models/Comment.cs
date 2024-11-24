@@ -10,4 +10,5 @@ public class Comment
     public string Content { get; set; } = string.Empty;
     public DateTime DateCreated { get; set; } = DateTime.Now;
     public int? BlogId { get; set; }
+    public Blog Blog { get; set; }
 }
